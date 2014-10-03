@@ -1,5 +1,12 @@
 <resources>
-
-    <string name="app_name">CanvasTest</string>
-
+	<string name="app_name">CanvasTest</string>
+	<string-array name="color_list">
+	    <item>Black</item>
+	    <item>Red</item>
+	    <item>Green</item>
+	    <item>Blue</item>
+	    <item>Cyan</item>
+	    <item>Magenta</item>
+	    <item>Yellow</item>
+	</string-array>
 </resources>
